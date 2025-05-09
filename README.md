@@ -2,7 +2,7 @@
 <p align=center>This theme is highly customizable and aimed exclusively at presenting any business or corporate profile.</p>
 <h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/navigator" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fnavigator%2Fsite%2Fen%2F&form_factor=desktop">Page Speed (93%)🚀</a>
 </h2>
-
+test commit
 
 
 <p align=center>
